@@ -1,18 +1,18 @@
 # aman-Bomb3r
 
-Made with Love in IN By Aman ❤️
+Made with Love in IN By Aman
 
 ## For Windows 10/8.x/7
 
-> Use windows [releases](https://github.com/amansen-dev/aman-bomb3r/releases) (windows release is not up-to date)
+> Use windows [releases](https://github.com/amansen-dev/aman_bomb3r/releases) (windows release is not up-to date)
 
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/installing/) to install bomb3r.
 
 ```bash
-git clone https://github.com/amansen-dev/aman-Bomb3r.git
-cd aman-Bomb3r
+git clone https://github.com/amansen-dev/aman_Bomb3r.git
+cd aman_Bomb3r
 pip3 install -r requirements.txt
 ```
 
